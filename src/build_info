@@ -1,0 +1,30 @@
+For the gap 1, 17 fragments are found
+
+PDB	RMSD	potential Lennard Jones
+1ceqH	0.83	3917005.87
+1cl8H	0.17	195198.04
+1cl8H	0.17	195198.04
+8rucAIH	1.26	4595.2
+1toaAH	5.35	1.87
+1dosAH	1.56	12307484.36
+1tudH	5.75	94881.02
+1czfAH	4.99	12.04
+1kp6H	1.75	1805.39
+1xikAH	1.96	131.18
+1pmiH	1.18	240.04
+1fxdH	2.78	816.82
+1fxdH	2.78	816.82
+1bg6H	0.93	-1.33
+2cplH	3.18	1692.7
+6celH	0.58	5713.58
+2driH	1.18	19.77
+Fragment chosen (frag_1bg6H_158_ ) has a energie of -1.33 kJ/mol  and RMSD of 0.93 A²
+
+For the gap 2, 3 fragments are found
+
+PDB	RMSD	potential Lennard Jones
+1qreH	2.01	5463997.57
+1qusH	2.84	34841.87
+2driH	0.87	2.59
+Fragment chosen (frag_2driH_63_ ) has a energie of 2.59 kJ/mol  and RMSD of 0.87 A²
+
